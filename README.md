@@ -12,6 +12,7 @@ Note Buddy is an application designed to help keep track of notes or tasks to do
 - [credits](#credits)
 - [License](#license)
 - [Contributing](#contributing)
+- [Testing](#testing)
 
 
 ## Installation
@@ -44,6 +45,16 @@ by Aliah Guerra2024. Confidential and Proprietary. All Rights Reserved.
 
 ## Contributing
 - Minor aestehic changes to CSS as desired.
+
+## Testing
+1.  cd to project path
+2. npm install
+3. server.js
+4. In broswer go to PORT (localhost:3002)
+5. Click start, enter new note and details, then click Save note.
+6. Check db.json file to verify it has been updated with the same data that was added.
+7. Delete data from db.json, save file, turn off server (ctl C) and refresh local host browser, note should be gone.
+8. Delete another existing note by clicking on the trash can on the browser, and go back to the db.json file to see that the note is deleted.
 
 
 
