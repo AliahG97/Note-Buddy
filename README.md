@@ -19,6 +19,7 @@ To install this project git clone https://github.com/AliahG97/note-buddy.git
 
 ## Screenshot
 ![ReadMe Gen Screenshot](./Assets/Images/note-buddy-screenshot.gif) https://aliahg97.github.io/note-buddy/
+ https://cryptic-tundra-54367-8e4ec55ea08d.herokuapp.com/notes
 
 
 ## Features
